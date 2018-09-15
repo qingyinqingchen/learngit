@@ -1,0 +1,3 @@
+nihao a a
+this is a read.txt
+
